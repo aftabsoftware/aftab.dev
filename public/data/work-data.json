@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.jpg",
+      "title": "Custom WordPress Website",
+      "client": "ThemeFantasy",
+      "slug": "custom-wordpress-website"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "WooCommerce eCommerce Store",
+      "client": "ThemeFantasy",
+      "slug": "woocommerce-ecommerce-store"
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "React.js Web Application",
+      "client": "ThemeFantasy",
+      "slug": "react-web-application"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "Custom Plugin Development",
+      "client": "ThemeFantasy",
+      "slug": "custom-plugin-development"
+    },
+    {
+      "image": "/images/work/work-img-5.jpg",
+      "title": "Website Performance Optimization",
+      "client": "ThemeFantasy",
+      "slug": "website-performance-optimization"
+    },
+    {
+      "image": "/images/work/work-img-6.jpg",
+      "title": "API Integration & Automation",
+      "client": "ThemeFantasy",
+      "slug": "api-integration-automation"
+    }
+  ]
+}

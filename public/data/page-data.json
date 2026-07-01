@@ -1,0 +1,124 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "aftabsoftware888@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:aftabsoftware888@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+9108120949",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+9108120949"
+      } 
+    ],
+    "socialItems": [
+      
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/aftab-jagirdar-a31310276/"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://www.facebook.com/profile.php?id=100092704741693"
+      }
+    ]
+  },
+  "educationData": {
+   "education": [
+  {
+    "title": "Diploma in Computer Science",
+    "description": "Completed a Diploma in Computer Science, building a strong foundation in programming, web development, database management, networking, and software engineering principles."
+  },
+  {
+    "title": "Full Stack Web Development",
+    "description": "Developed expertise in WordPress, WooCommerce, React.js, JavaScript, PHP, MySQL, REST APIs, HTML5, CSS3, and modern web development through professional experience and continuous learning."
+  },
+  {
+    "title": "Continuous Professional Development",
+    "description": "Continuously expanding knowledge in React.js, performance optimization, SEO, accessibility, API integration, and modern web technologies to stay aligned with industry best practices."
+  }
+],
+    "skills": [
+  {
+    "name": "WordPress",
+    "icon": "/images/home/education-skill/wordpress-icon.svg",
+    "rating": 5
+  },
+  {
+    "name": "HTML5",
+    "icon": "/images/home/education-skill/html-icon.svg",
+    "rating": 5
+  },
+  {
+    "name": "CSS3",
+    "icon": "/images/home/education-skill/css-icon.svg",
+    "rating": 5
+  },
+  {
+    "name": "JavaScript",
+    "icon": "/images/home/education-skill/javascript-icon.svg",
+    "rating": 5
+  },
+  {
+    "name": "jQuery",
+    "icon": "/images/home/education-skill/jquery-icon.svg",
+    "rating": 5
+  },
+  {
+    "name": "React.js",
+    "icon": "/images/home/education-skill/react-icon.svg",
+    "rating": 5
+  },
+  {
+    "name": "PHP",
+    "icon": "/images/home/education-skill/php-icon.svg",
+    "rating": 5
+  },
+  {
+    "name": "Shopify",
+    "icon": "/images/home/education-skill/shopify-icon.svg",
+    "rating": 5
+  },
+  {
+    "name": "Wix",
+    "icon": "/images/home/education-skill/wix-icon.svg",
+    "rating": 5
+  },
+  {
+    "name": "GoHighLevel (GHL)",
+    "icon": "/images/home/education-skill/ghl-icon.svg",
+    "rating": 5
+  }
+]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      
+      {
+        "title": "Facebook",
+        "href": "https://www.facebook.com/profile.php?id=100092704741693"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/aftab-jagirdar-a31310276/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "aftabsoftware888@gmail.com",
+        "link": "mailto:aftabsoftware888@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+9108120949",
+        "link": "tel:+9108120949"
+      }
+    ]
+  }
+}
